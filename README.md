@@ -1,1 +1,0 @@
-# Neurohoroscope-by-fingerprint
